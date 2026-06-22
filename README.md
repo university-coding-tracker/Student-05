@@ -2,3 +2,4 @@
 Fixed splash screen delay<br>
 Created database helper class<br>
 Added student model class
+Fixed null pointer in model
