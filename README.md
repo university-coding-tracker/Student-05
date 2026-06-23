@@ -3,4 +3,4 @@
 2. Created <b>database</b> helper class<br>
 3. Added student model class<br>
 4. Fixed <b>null pointer</b> in model<br>
-5. Fixing bugs in the written code
+5. Fixing <i>bugs</i> in the written code
